@@ -12,7 +12,7 @@
 
 ## 下载(v1.0.0.0)
 * [Github](https://github.com/tp1415926535/AttachToScreen/raw/main/%E5%B1%8F%E8%B4%B4v1.0.0.0.zip)
-* [蓝奏云](https://wwp.lanzouw.com/iGlPh0dmgzah)
+* [蓝奏云](https://wwp.lanzouw.com/iNCK60dmjjxc)
 
 
 ## 版本
