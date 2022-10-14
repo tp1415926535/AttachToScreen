@@ -12,9 +12,9 @@
 
 ## 下载(v1.0.0.1)
 * [Github](https://github.com/tp1415926535/AttachToScreen/raw/main/%E5%B1%8F%E8%B4%B4v1.0.0.1.zip)
-* [蓝奏云](https://wwp.lanzouw.com/idb2N0du6tpe)
+* [蓝奏云](https://wwp.lanzouw.com/i90il0du8g3g)
 
 
 ## 版本
-* v1.0.0.1  2022/10/14 新增字贴的颜色和字体设置；修复打开文件时未清空的问题。
+* v1.0.0.1  2022/10/14 新增字贴的颜色和字体设置；图贴扩大缩放范围，支持0.1-5倍；修复打开文件时未清空的问题。
 * v1.0.0.0  2022/10/11 
