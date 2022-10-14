@@ -10,10 +10,11 @@
 提供项目保存，可以记录贴的情况并存到文件中。
 
 
-## 下载(v1.0.0.0)
-* [Github](https://github.com/tp1415926535/AttachToScreen/raw/main/%E5%B1%8F%E8%B4%B4v1.0.0.0.zip)
-* [蓝奏云](https://wwp.lanzouw.com/iNCK60dmjjxc)
+## 下载(v1.0.0.1)
+* [Github](https://github.com/tp1415926535/AttachToScreen/raw/main/%E5%B1%8F%E8%B4%B4v1.0.0.1.zip)
+* [蓝奏云](https://wwp.lanzouw.com/idb2N0du6tpe)
 
 
 ## 版本
+* v1.0.0.1  2022/10/14 新增字贴的颜色和字体设置；修复打开文件时未清空的问题。
 * v1.0.0.0  2022/10/11 
