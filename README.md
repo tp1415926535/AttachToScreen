@@ -14,7 +14,7 @@
 
 ## 下载(v1.0.0.1)
 * [Github](https://github.com/tp1415926535/AttachToScreen/raw/main/%E5%B1%8F%E8%B4%B4v1.0.0.1.zip)
-* [蓝奏云](https://wwp.lanzouw.com/ieI3o0dvj39g)
+* [蓝奏云](https://wwp.lanzouw.com/ibjdg0dwzcve)
 
 
 ## 版本
