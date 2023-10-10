@@ -43,7 +43,7 @@
 
 ### 下载(v1.0.0.2)
 * [Github](https://github.com/tp1415926535/AttachToScreen/raw/main/%E5%B1%8F%E8%B4%B4v1.0.0.2.zip)
-* [蓝奏云](https://wwvr.lanzouw.com/iKUt51behppe)
+* [蓝奏云](https://wwvr.lanzouw.com/iPX331beiqij)
 
 ### 版本
 * v1.0.0.2  2023/10/10 新增启动时隐藏到托盘设置；修复粘贴的图片保存路径错误
@@ -87,7 +87,7 @@ No background, supports transparent png and gif. can be set:
 
 ### Download(v1.0.0.2)
 * [Github](https://github.com/tp1415926535/AttachToScreen/raw/main/%E5%B1%8F%E8%B4%B4v1.0.0.2.zip)
-* [BluePlayCloud](https://wwvr.lanzouw.com/iKUt51behppe)
+* [LanzouCloud](https://wwvr.lanzouw.com/iPX331beiqij)
 
 ### Version.
 * v1.0.0.2 2023/10/10 Add hide to tray setting on startup; fix paste image save path error.
