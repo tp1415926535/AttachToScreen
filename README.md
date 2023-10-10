@@ -1,7 +1,7 @@
 # 屏贴（AttachToScreen）
    —— 把文字或图片贴在屏幕上      
       
-[![中文介绍](https://img.shields.io/static/v1?label=中文&message=说明&color=red)]()   [![English Describe](https://img.shields.io/static/v1?label=English&message=Description&color=yellow)]()   
+[![中文介绍](https://img.shields.io/static/v1?label=中文&message=说明&color=red)](https://github.com/tp1415926535/AttachToScreen/tree/main#%E4%BB%8B%E7%BB%8D)   [![English Describe](https://img.shields.io/static/v1?label=English&message=Description&color=yellow)](https://github.com/tp1415926535/AttachToScreen/tree/main#introduction)   
 
 
 支持不限数量的文字图片同时贴在屏幕上。    
